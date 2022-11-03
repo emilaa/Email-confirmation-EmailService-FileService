@@ -1,0 +1,35 @@
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\bin\Debug\netcoreapp3.1\Partial views, Load more.exe
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\bin\Debug\netcoreapp3.1\Partial views, Load more.deps.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\bin\Debug\netcoreapp3.1\Partial views, Load more.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\bin\Debug\netcoreapp3.1\Partial views, Load more.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\bin\Debug\netcoreapp3.1\Partial views, Load more.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\bin\Debug\netcoreapp3.1\Partial views, Load more.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\bin\Debug\netcoreapp3.1\Partial views, Load more.Views.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\bin\Debug\netcoreapp3.1\Partial views, Load more.Views.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.RazorAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.RazorAssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\staticwebassets\Partial views, Load more.StaticWebAssets.Manifest.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\staticwebassets\Partial views, Load more.StaticWebAssets.xml
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\scopedcss\bundle\Partial views, Load more.styles.css
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.TagHelpers.input.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.TagHelpers.output.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.RazorCoreGenerate.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.RazorTargetAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.RazorTargetAssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.Views.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.genruntimeconfig.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\Partial views, Load more\Partial views, Load more\obj\Debug\netcoreapp3.1\Partial views, Load more.csproj.CopyComplete

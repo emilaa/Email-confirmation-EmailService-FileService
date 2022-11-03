@@ -1,0 +1,36 @@
+﻿@model LoginVM
+
+@{
+    ViewData["Title"] = "LogIn";
+}
+
+<div class="container">
+    <div class="row d-flex justify-content-center">
+        <div class="input-area my-2" style="width:350px; height:350px; background-color:aqua">
+            <div class="text-danger mb-2" asp-validation-summary="All"></div>
+            <h3 style="text-align:center">Login</h3>
+            <form asp-controller="Account" asp-action="LogIn" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label asp-for="UsernameOrEmail" class="form-label">Username or email</label>
+                    <input class="form-control" asp-for="UsernameOrEmail">
+                    <span class="text-danger" asp-validation-for="UsernameOrEmail"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label">Password</label>
+                    <input class="form-control" asp-for="Password">
+                    <span class="text-danger" asp-validation-for="Password"></span>
+                </div>
+                <div class="register-btn d-flex justify-content-center" style="width: 100%;">
+                    <button type="submit" style="background-color:deeppink" class="btn btn-primary">Login</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+</div>
+
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}

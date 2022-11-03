@@ -1,0 +1,65 @@
+﻿@model AppUser
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<main>
+    <section id="user-about">
+        <div class="my-container">
+            <div class="row">
+                <div class="col-3">
+                    <div class="user">
+                        <img src="./assets/images/profile/download.jfif" alt="" />
+                        <div class="info">
+                            <h4>Hi, @User.Identity.Name</h4>
+                            <p>johndoe@deo.com</p>
+                        </div>
+                    </div>
+                    <div class="user-info">
+                        <div class="icon">
+                            <i class="fa-solid fa-clock-rotate-left"></i>
+                            <span>Order History</span>
+                        </div>
+                        <div class="icon">
+                            <i class="fa-regular fa-user"></i> <span>Profile</span>
+                        </div>
+                        <div class="icon">
+                            <i class="fa-solid fa-location-dot"></i> <span>Address</span>
+                        </div>
+                        <div class="icon">
+                            <i class="fa-regular fa-credit-card"></i>
+                            <span>Saved Cards</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-9">
+                    <div class="empty">
+                        <h4>Profile Infomation</h4>
+                        <div class="info-s">
+                            <div class="div-1">
+                                <p>Fullname</p>
+                                <p>Last Name</p>
+                                <p>Gender</p>
+                                <p>Date Of Birth</p>
+                                <p>Mobile Number</p>
+                                <p>Location</p>
+                                <p>E-Mail Id</p>
+                                <button>Edit</button>
+                            </div>
+                            <div class="div-2">
+                                <p>@Model.Fullname</p>
+                                <p>Doe</p>
+                                <p>Male</p>
+                                <p>Jan,06,1979</p>
+                                <p>+120 256 254 125</p>
+                                <p>New York</p>
+                                <p>@Model.Email</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
